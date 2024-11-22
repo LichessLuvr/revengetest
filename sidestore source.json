@@ -1,0 +1,40 @@
+{
+    "name": "Lichess Bundle",
+    "identifier": "com.lichess.apps",
+    "sourceURL": "https://avatars.githubusercontent.com/u/139741750?v=4",
+    "apps": [
+  {
+    "name": "Revenge",
+    "bundleIdentifier": "com.revenge.revenge",
+    "developerName": "PalmDevs",
+    "subtitle": "Updated Discord mod forked from Bunny!",
+    "versions": [
+      {
+        "version": "250.0",
+        "date": "2020-04-21",
+        "localizedDescription": "First pushed ipa.",
+        "downloadURL": "https://github.com/revenge-mod/revenge-tweak/releases/download/v250.0/Revenge.ipa",
+        "size": 965
+      }
+    ],
+    "localizedDescription": "Discord mod client with many features for iOS and Android devices!",
+    "iconURL": "https://avatars.githubusercontent.com/u/159218871?s=48&v=4",
+    "tintColor": "#21486b",
+    "permissions": [
+      {
+        "type": "photos",
+        "usageDescription": "Allows you to use your photo library to set your profile image."
+      },
+      {
+        "type": "microphone",
+        "usageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access."
+      },
+      {
+        "type": "camera",
+        "usageDescription": "To take photos in OldOS, please enable access to your camera."
+      }
+    ],
+    "beta": false
+  }
+]
+}
